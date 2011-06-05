@@ -1,4 +1,4 @@
-<img src="https://github.com/iriscrm/iriscrm-clean-screenshot/raw/master/iriscrm.png" alt="iris crm" />
+<img src="https://github.com/iriscrm/Iris-CRM-clean-screenshot/raw/master/iriscrm.png" alt="iris crm" />
 
 Плагин для Google Chrome, упрощающий создание скриншотов карточек Iris CRM.
 
